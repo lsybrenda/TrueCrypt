@@ -1,0 +1,4 @@
+BUILD: Examining e:\truecrypt7.1\common directory for files to compile.
+1>Compiling e:\truecrypt7.1\common *************
+1>'nmake.exe /nologo BUILDMSG=Stop. /S /C -i BUILD_PASS=PASS1 NOLINK=1 MAKEDIR_RELATIVE_TO_BASEDIR='
+1>BUILDMSG: _NT_TARGET_VERSION SET TO WS03
